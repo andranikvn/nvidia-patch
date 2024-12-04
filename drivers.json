@@ -1123,6 +1123,12 @@
                     "driver_url": "http://international.download.nvidia.com/XFree86/Linux-x86_64/560.35.03/NVIDIA-Linux-x86_64-560.35.03.run"
                 },
                 {
+                    "version": "560.35.05",
+                    "nvenc_patch": true,
+                    "nvfbc_patch": true,
+                    "driver_url": "https://developer.download.nvidia.com/compute/cuda/12.6.3/local_installers/cuda_12.6.3_560.35.05_linux.run"
+                },
+                {
                     "version": "550.120",
                     "nvenc_patch": true,
                     "nvfbc_patch": true,
